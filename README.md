@@ -30,11 +30,11 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/updalla-apshir/typeScript-for-beginners.git
 
 Navigate to the project folder:
 
-cd <repository-name>
+cd typeScript-for-beginners
 
 Install dependencies (if any):
 
